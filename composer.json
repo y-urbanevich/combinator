@@ -1,13 +1,13 @@
 {
-    "name": "y-urbanevich/combinator",
+    "name": "urbanevych/combinator",
     "description": "Get all possible combinations.",
     "keywords": ["array", "combinator"],
     "type": "helper",
     "license": "MIT",
     "authors": [
         {
-            "name": "Yaroslav Urbanevich",
-            "email": "y.urbanevich@gmail.com",
+            "name": "Yaroslav Urbanevych",
+            "email": "y.urbanevych@gmail.com",
             "homepage": "http://exe.kh.ua"
         }
     ],
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Urbanevich\\": "src"
+            "Urbanevych\\": "src"
         }
     }
 }
