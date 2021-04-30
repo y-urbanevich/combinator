@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require y-urbanevich/combinator:"dev-master"
+composer require urbanevych/combinator:"dev-master"
 ```
 
 or add
 
 ```json
-"y-urbanevich/combinator" : "dev-master"
+"urbanevych/combinator" : "dev-master"
 ```
 
 to the require section of your application's `composer.json` file.
@@ -55,4 +55,4 @@ class SomeClass {
 ```
 
 
-> [Yaroslav Urbanevich](http://exe.kh.ua) 
+> [Yaroslav Urbanevych](http://exe.kh.ua) 
