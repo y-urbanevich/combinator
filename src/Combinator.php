@@ -1,6 +1,6 @@
 <?php
 
-namespace Urbanevich;
+namespace Urbanevych;
 
 /**
  * Class Combinator
